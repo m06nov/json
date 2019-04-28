@@ -1,0 +1,25 @@
+{
+	"organizationId":"",
+	"userID":"",
+	"userName":"",
+	"userPassword":"",
+	"userRole":["",""],
+	"userProfile":
+		{
+			"firstName":"",
+			"lastName":"",
+			"emailAddress":"",
+			"phoneNumber":"",
+			"linkedInProfileURL":"",
+			"address":
+				{
+					"addressLine1":"",
+					"addressLine2":"",
+					"city":"",
+					"country":"",
+					"state":"",
+					"pinCode":""
+				},
+			"userTimeZone":""
+		}
+}

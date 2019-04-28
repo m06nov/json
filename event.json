@@ -1,0 +1,27 @@
+{
+		"organizationId":"",
+		"eventID":"",
+		"eventName":"",
+		"eventType":"",
+		"eventStatus":"",
+		"syncWithMarketo":"",
+		"eventCadance":
+			{
+				"eventDate":"",
+				"eventTime":"",
+				"eventTimeZone":""
+			},
+		"eventLocation":
+			{
+				"addressLine1":"",
+				"addressLine2":"",
+				"city":"",
+				"country":"",
+				"state":"",
+				"pinCode":""
+			},
+		"createdBy":"",
+		"createdDate":"",
+		"lastModifiedBy":"",
+		"lastModifiedDate":"",
+}

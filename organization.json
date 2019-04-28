@@ -1,0 +1,20 @@
+{
+	"organizationId":"",
+	"organizationName":"",
+	"organizationLogo":"",
+	"organizationAddress":
+	{
+		"addressLine1":"",
+		"addressLine2":"",
+		"city":"",
+		"state":"",
+		"country":"",
+		"pinCode":""
+	},
+	"contactInfo":
+		{
+			"primaryEmail":"",
+			"primaryPhone":"",
+			"primaryPersion":""
+		}
+}

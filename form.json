@@ -1,0 +1,70 @@
+{
+		"organizationId":"",
+		"eventId":"",
+		"formId":"",
+		"formName":"",
+		"formFields":
+			[
+				{
+					"fieldName":"firstName",
+					"fieldLabel":"First Name",
+					"fieldType":"string",
+					"fieldLength":"250",
+					"fieldValidationMessage":"This field is required"
+				},
+				{
+					"fieldName":"lastName",
+					"fieldLabel":"Last Name",
+					"fieldType":"string",
+					"fieldLength":"250",
+					"fieldValidationMessage":"This field is required"
+				},
+				{
+					"fieldName":"emailAddress",
+					"fieldLabel":"Email Address",
+					"fieldType":"string",
+					"fieldLength":"250",
+					"fieldValidationMessage":"Enter a valid Email Address"
+				},
+				{
+					"fieldName":"country",
+					"fieldLabel":"Country",
+					"fieldType":"select",
+					"fieldLength":"250",
+					"fieldValidationMessage":"This field is required",
+					"values":
+						[
+							{
+								"label":"United States",
+								"value":"USA",
+							},	
+							{
+								"label":"Canada",
+								"value":"CAN",
+							},
+							{
+								"label":"India",
+								"value":"IND",
+							},
+						]
+				},
+				{
+					"fieldName":"state",
+					"fieldLabel":"State",
+					"fieldType":"select",
+					"fieldLength":"250",
+					"fieldValidationMessage":"This field is required",
+					"values":
+						[
+							{
+								"label":"New York",
+								"value":"NY",
+							},	
+							{
+								"label":"Texas",
+								"value":"TX",
+							}
+						]
+				},
+			]
+}
